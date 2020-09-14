@@ -1,4 +1,4 @@
-<h1> ¡Hola a todos! <img src="https://github.com/hellisleiva/hellisleiva.github.io/blob/master/imagenes/hola.gif" width="29px"> </h1>
+<h1> ¡Hola a todos!</h1>
 
 **🧭 La curiosidad es mi motor. Estudié psicología e informática.**<br>
 **🕵️ Ahora aprendiendo y trabajando en ciberseguridad a tiempo completo.**
@@ -20,15 +20,10 @@
 <br>
 **💬 Puedes contactarme en mis redes:**<br>
 <br> 
-  <a href="https://www.linkedin.com/in/hellisleiva/">
-   <img align="left" alt="Hellis Leiva | Linkedin" width="26px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
-  </a>
-  <a href="https://twitter.com/hellisleiva">
-    <img align="left" alt="Hellis Leiva | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
-  </a>
-  <a href="https://github.com/hellisleiva">
-    <img align="left" alt="Hellis Leiva | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
+<code><a href="https://www.linkedin.com/in/hellisleiva/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
+<code><a href="https://twitter.com/hellisleiva/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"></a></code>
+<code><a href="https://github.com/hellisleiva/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
+<code><a href="https://www.hackthebox.eu/home/users/profile/121196" target="_blank"><img height="44" src="https://image4.owler.com/logo/hackthebox_owler_20190103_123530_large.png"></a></code>
 <br>
 <br>
 
