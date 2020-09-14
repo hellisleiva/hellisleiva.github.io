@@ -23,7 +23,7 @@
 <code><a href="https://www.linkedin.com/in/hellisleiva/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
 <code><a href="https://twitter.com/hellisleiva/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"></a></code>
 <code><a href="https://github.com/hellisleiva/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
-<code><a href="https://www.hackthebox.eu/home/users/profile/121196" target="_blank"><img height="44" src="https://image4.owler.com/logo/hackthebox_owler_20190103_123530_large.png"></a></code>
+<code><a href="https://www.hackthebox.eu/profile/121196" target="_blank"><img height="42" src="https://image4.owler.com/logo/hackthebox_owler_20190103_123530_large.png"></a></code>
 <br>
 <br>
 
