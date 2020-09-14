@@ -1,8 +1,7 @@
+<h1> ¡Hola a todos! <img src="https://github.com/hellisleiva/hellisleiva.github.io/blob/master/imagenes/hola.gif" width="29px"> </h1>
 
-<h1> ¡Hola a todos! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
-
-**🔭 La curiosidad es mi motor. Estudié psicología e informática.**<br>
-**🧭 Ahora aprendiendo y trabajando en ciberseguridad a tiempo completo.**
+**🧭 La curiosidad es mi motor. Estudié psicología e informática.**<br>
+**🕵️ Ahora aprendiendo y trabajando en ciberseguridad a tiempo completo.**
 <br>
 <br>
 **✨ Tecnologías que uso actualmente:**<br>
@@ -32,6 +31,4 @@
   </a>
 <br>
 <br>
-
-⭐️ [hellisleiva](https://hellisleiva.github.io)
 
